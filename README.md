@@ -1,8 +1,8 @@
 ### 👋 Hi, I’m Revanth Yarlagadda
-<!---
+
 ---
 ![revyarly banner](https://github.com/revyarly/revyarly/blob/main/revyarly%20banner.png?raw=true)
---->
+
 
 ---
 👀 I'm soon to be a post-graduate with an MSc in Data Science from The University of Bristol, United Kingdom (2021-2022). I'm an enthusiastic individual with a passion for working with vast amounts of data and developing models that will help grow your company.
