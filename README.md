@@ -5,16 +5,13 @@
 
 
 ---
-👀 I'm soon to be a post-graduate with an MSc in Data Science from The University of Bristol, United Kingdom (2021-2022). I'm an enthusiastic individual with a passion for working with vast amounts of data and developing models that will help grow your company.
+🎓 Data Science Graduate from a top 5 U.K. University, adept in data management, model development, and extracting insights from data. Proficient in employing cutting-edge techniques such as Machine Learning, Data Engineering, and Data Analytics. Intend to apply skills developed through my previous experiences to solve real-world problems and contribute to the company’s profitable growth.
 
-💪 I intend to apply the following skills I have nurtured and developed through my Master's degree to solve real-world problems:
-- Programming Languages: Python, R, SQL 
-- Tools: Git, Tableau, Power BI, Excel, MATLAB, LaTeX
-- Hard skills: Machine Learning, Data Analytics, Natural Language Processing and Amazon Web Services
-- Soft Skills: Teamwork, Communication, Leadership 
-
-🌱 As a post-graduate in Data Science, I'm looking for intellectually exciting projects to help me advance my abilities in Data Engineering, Machine Learning, Deep Learning, and Natural Language Processing. 
-
+💪 Intend to apply the following skills I have nurtured and developed through my experiences to solve real-world problems:
+- Programming Languages: Python, R, SQL, MATLAB 
+- Tools: Git, VS Code, DBeaver, Tableau, Power BI, MS Excel, LaTeX
+- Hard skills: Machine Learning, Data Analytics, Natural Language Processing, Amazon Web Services and Salesforce
+- Soft Skills: Adaptability, Communication, Leadership, Teamwork, Time Management 
 <!---
 🔭 I’m currently working on  
 --->
